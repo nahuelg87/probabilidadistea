@@ -1,19 +1,25 @@
 Estadistica y Probabilidad
 
-Modalidad Asincronica: Plazo Desde viernes hasta domingo. Sube el parcial despues de la clase del 29/09/2023.
-Carpeta abierta, uso de excel, formulas, herramientas, documentacion, etc.
-Prohibido chatGPT y otros.
-Los examenes se hacen en un Excel(todo lo referente al procedimiento y calculos, hacer un ejercicio por hoja - solapa) y en un Word(Respuestas finales en forma de frases)
-Libro para estudiar mas completo: Estadisitca para Administracion y Economia.
+>Modalidad Asincronica: Plazo Desde viernes hasta domingo a las 12hs máximo. 
+
+>Sube el parcial despues de la clase del 29/09/2023.
+
+>Carpeta abierta, uso de excel, formulas, herramientas, documentacion, etc.
+
+>Prohibido chatGPT y otros.
+
+>Los examenes se hacen en un Excel(todo lo referente al procedimiento y calculos, hacer un ejercicio por hoja - solapa) y en un Word(Respuestas finales en forma de frases)
+
+>Libro para estudiar mas completo: Estadisitca para Administracion y Economia.
 https://drive.google.com/file/d/1XYgpfh4zfx3HYygOncfZ2J9BJxsLRSa8/view
 
 
-1° parcial: 29/09/2023 hasta 01/10/2023 (Revision: 06/10/2023). 
-2° parcial: 17/11/2023 hasta 19/11/2023 (Revision: 24/11/2023).
+>1° parcial: 29/09/2023 hasta 01/10/2023 (Revision: 06/10/2023). 
+>2° parcial: 17/11/2023 hasta 19/11/2023 (Revision: 24/11/2023).
 
-Recuperatorio:     01/12/2023 hasta 03/12/2023 (Revision: 08/12/2023).
-FInal 1er llamado: 15/12/2023
-Final 2do llamado: 22/12/2023
+>Recuperatorio:     01/12/2023 hasta 03/12/2023 (Revision: 08/12/2023).
+>FInal 1er llamado: 15/12/2023
+>Final 2do llamado: 22/12/2023
 
 Programa Estimativo:
 Unidad 1: Estadistica Descriptiva
