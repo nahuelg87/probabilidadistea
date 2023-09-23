@@ -183,11 +183,15 @@ Definiciones:
 >MEDIDAS DESCRIPTIVAS:
 >De Tendencia Central o Centralizacion: Me dan una idea del "Centro" de la distribucion.  
 -Media Aritmetica Promedio Simple: Suma de los Numeros, los divido por la cantidad de numeros.
+
 -Mediana: Es el numero que esta en la posicion intermedia. Formula: (n+1)/2
+
 -Modo / Moda: Es el numero que mas se repite.
 
 Estas no se usan tanto:
+
 -Media ponderada Promedio Ponderado: Se usa para calcular precioes promedios en contabilidad. En toma de desiciones y distribuciones el valor esperado.
+
 -Media Geometrica / Armonica / Heroniana: Son promedios especiales que se usan en Geometria, finanzas, Ingenieria y Fisica.
 
 >De Dispersion o Variabilidad: Me da una idea de cuan alejados estan los datos con respecto al centro.
