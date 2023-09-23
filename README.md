@@ -198,10 +198,52 @@ Estas no se usan tanto:
 -Media Geometrica / Armonica / Heroniana: Son promedios especiales que se usan en Geometria, finanzas, Ingenieria y Fisica.
 
 >De Dispersion o Variabilidad: Me da una idea de cuan alejados estan los datos con respecto al centro.
--Rango o Amplitud: Es la diferencia entre el minimo y el maximo. Formula: Max menos Min.
--Varianza: Es un promedio de los desvios cuadraticos. Formula: σ² = ( Σ (x-μ)² ) / N
--Desvio Estandar: Es la Raiz cuadrada de la Varianza.
--Coeficiente de Variacion: Desvio / Media.
 
->De Posicion o Posicion Relativa
->De 
+-Rango o Amplitud: Es la diferencia entre el minimo y el maximo. Formula: Max menos Min.
+
+-Varianza: Es un promedio de los desvios cuadraticos. Formula: σ² = ( Σ (x-μ)² ) / N
+
+-Desvio Estandar: Es la Raiz cuadrada de la Varianza.
+
+-Coeficiente de Variacion: Desvio Estandar /dividido por la Media Aritmetica. Numero entre 0 y 100 %.
+
+Ejemplo Media, Desvio y Coeficiente de Variacion: sueldos de distintas personas, la media es de $150.000, el Desvio es de $10.000 (diezmil mas arriba o mas abajo) y el coef Var es del 7%, es decir que es un numero bajo y los sueldos son parecidos. Si fuera un Coef Var muy grande, habria mucha diferencia entre esos sueldos. El Coef Var crece de acuerdo al crecimiento del Desvio.
+
+>De Posicion o Posicion Relativa: Son numeros que parten a una poblacion de datos en porciones iguales.
+
+-Cuartiles: Son 3 y parten en 4 partes iguales a una poblacion. Ejemplo Cuatrimestres del año (Enero-Febrero-Marzo-Abril, Mayo-Junio-Julio-Agosto, Septiembre-Octubre-Noviembre-Diciembre).
+
+-Quintiles: Son 4 y parten en 5 partes a una poblacion.
+
+-Deciles: Son 9 y parten en 10 partes a una poblacion.
+
+-Percentiles: Son 99 y parten en 100 a una poblacion.
+
+-Rango Intercuartilico: Q3 - Q1 
+
+>De Forma: Son Numeros que me comparar al grupo con respecto a la Distribucion Normal. Pueden dar Cero, Positivo o Negativo.
+
+-Sesgo: Compara si con respecto a la Norma es igual, o Sesgada a la Derecha o Izquierda.
+
+-Curtosis: Compara si con rescpecto a la Norma es igual, o mas alta, o mas baja (+ Concentracion o Dispersion).
+
+:::Distribucion normal, ver grafico de Campana de Gauss:::
+
+>Graficos Estadisticos.
+
+-De puntos:
+
+-Histograma: De Barras, Verticales, Horizontales.
+
+-Poligono de Frecuencias:
+
+-Boxplot: Caja y Bigotes - De 5 puntos.
+
+-Circular:
+
+-Diagrama de Tallo y Hoja:
+
+-De Dispersion:
+
+Seguir Aca: https://youtu.be/DgCZnpzf_Fc?list=PLmNr45tpqs7bFuVNABxiRsw2D9HxOD0Sl&t=3882
+
