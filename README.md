@@ -155,6 +155,9 @@ Axiomas - Teorema de Bayes https://www.youtube.com/watch?v=tWqy7wCEJn4&list=PLey
 
 
 ### Definiciones y Conceptos:
+
+>Mapa conceptual de Fisica y Estadistica: https://www.mindomo.com/es/mindmap/mapa-conceptual-estadistica-5e22f5a8af111642a0dda27dbec682be
+
 Estadistica Descriptiva.
 >Grupo A "Poblacion" (Entera) > Si la estudiamos, el procedimiento se llama Censo. Puede ser "Finita" o "Infinitas".
 >Grupo B Sub-grupo de la poblacion llamado "Muestra" > Si la estudiamos, el procedimiento se llama Muestreo. Puede ser Probabilistico o No Probabilistico.
