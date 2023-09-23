@@ -106,7 +106,7 @@ Numeros Indice:
 
 [Lista de reproducción](https://www.youtube.com/playlist?list=PLmNr45tpqs7bFuVNABxiRsw2D9HxOD0Sl) en YouTube 
 
-1. [Parte A](https://drive.google.com/file/d/1xNTyobHRQm-e1WmIIr9hsd8tzgVb9kAh/view o https://youtu.be/Mg5wL8v5vPA) 
+1. [Parte A](https://drive.google.com/file/d/1xNTyobHRQm-e1WmIIr9hsd8tzgVb9kAh/view) o en [Youtube](https://youtu.be/Mg5wL8v5vPA) 
 Temas: Introducción a la materia, modalidad de parciales, notas, cronograma. Duración: 54 min.
 
 Material:
@@ -117,7 +117,7 @@ Material:
 * [Programa y Cronograma](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NjEwMTkz/details) 
 * [Ejercicios y Problemas](https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5ODk4NTMw/details) 
 
-1. - [Parte B](https://drive.google.com/file/d/1XAG5NvDd-MUufmVboB1hwcQicwwbLr4O/view o https://youtu.be/DgCZnpzf_Fc) 
+1. - [Parte B](https://drive.google.com/file/d/1XAG5NvDd-MUufmVboB1hwcQicwwbLr4O/view) o en [Youtube](https://youtu.be/DgCZnpzf_Fc) 
 
 Temas: Definición, Historia, Duración: 1.31hs
 [Material](https://drive.google.com/file/d/1EG0yyhIG-RbgfGO351jK9havWqtj1ECD/view)
