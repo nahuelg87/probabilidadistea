@@ -2,8 +2,8 @@
 
 ##Tabla de Contenidos
 
-1.[Modalidad de Parciales, fechas y tips](#modalidad-de-parciales-fechas-y-tips)
-2.[]
+1.  [Modalidad de Parciales, fechas y tips](#modalidad-de-parciales-fechas-y-tips)
+2.  []
 3.[]
 
 ### Modalidad de parciales, fechas y tips.
