@@ -3,8 +3,9 @@
 ##Tabla de Contenidos
 
 1.  [Modalidad de Parciales, fechas y tips](#modalidad-de-parciales-fechas-y-tips)
-2.  []
-3.[]
+2.  [Programa de Estudio](#programa-de-estudio)
+3.	[Clases Grabadas](#clases-grabadas)
+4.  [Material Adicional](#material-adicional)
 
 ### Modalidad de parciales, fechas y tips.
 >Modalidad Asincronica: Plazo Desde viernes hasta domingo a las 12hs máximo. 
