@@ -1,6 +1,19 @@
 Estadistica y Probabilidad
 
-1° parcial: 06/10/2023. 2° parcial: 24/11/2023
+Modalidad Asincronica: Plazo Desde viernes hasta domingo. Sube el parcial despues de la clase del 29/09/2023.
+Carpeta abierta, uso de excel, formulas, herramientas, documentacion, etc.
+Prohibido chatGPT y otros.
+Los examenes se hacen en un Excel(todo lo referente al procedimiento y calculos, hacer un ejercicio por hoja - solapa) y en un Word(Respuestas finales en forma de frases)
+Libro para estudiar mas completo: Estadisitca para Administracion y Economia.
+https://drive.google.com/file/d/1XYgpfh4zfx3HYygOncfZ2J9BJxsLRSa8/view
+
+
+1° parcial: 29/09/2023 hasta 01/10/2023 (Revision: 06/10/2023). 
+2° parcial: 17/11/2023 hasta 19/11/2023 (Revision: 24/11/2023).
+
+Recuperatorio:     01/12/2023 hasta 03/12/2023 (Revision: 08/12/2023).
+FInal 1er llamado: 15/12/2023
+Final 2do llamado: 22/12/2023
 
 Programa Estimativo:
 Unidad 1: Estadistica Descriptiva
@@ -36,6 +49,23 @@ Combinatoria: Permutacion / Combinacion / Variacion
 Probabilidad: Simple o Marginal / Conjunta o Producto / Total o Suma / Condicional
 Aplicaciones de Probabilidad y Media Ponderada: Teorema de Tchebycheff / Tablas de Mortalidad / Analisis de Desiciones / Riesgo e Incertidumbre
 Numeros Indice: Variacion Abs y Rel / Indice Canasta / Inflacion / Crecimiento / Desempleo
+
+Clases grabadas
+
+01 - Parte A https://drive.google.com/file/d/1xNTyobHRQm-e1WmIIr9hsd8tzgVb9kAh/view
+01 - Parte B https://drive.google.com/file/d/1XAG5NvDd-MUufmVboB1hwcQicwwbLr4O/view
+02 - Parte A https://drive.google.com/file/d/1Ha7i9rQ2BAmzPNR6eSzOxkKEm7nPH9Ch/view
+02 - Parte B https://drive.google.com/file/d/1Lz6Ns_g__dpdGlc5D7M8iC9CUkpgJTin/view
+03 - Parte A https://drive.google.com/file/d/1JFLhKmEwouQb6n6EdXk8UqGhV4C3uIFG/view
+03 - Parte B https://drive.google.com/file/d/1Rn1HVfDBL5orNYTaxFbxmws1lwDi8uOk/view
+04 - Parte A https://drive.google.com/file/d/14ZI11IdNw6nYPH4OicAmr7gD8QVgpdUW/view
+04 - Parte B https://drive.google.com/file/d/1b-GgwFnyZ76T1mCBn80R1-zp39uoNaSp/view
+05 - Parte A https://drive.google.com/file/d/1th1uCWXyMB8WLP-ZyM5Sre_wM-P7HBsZ/view
+05 - Parte B https://drive.google.com/file/d/1XbSG3p6VDBAm09uTnXPzAM2XoXaLhuq6/view
+06 - Parte A
+06 - Parte B 
+
+
 
 
 Listas de videos - Profe Alex
