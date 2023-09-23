@@ -1,5 +1,6 @@
 Estadistica y Probabilidad
 
+### Modalidad de parciales, fechas y tips.
 >Modalidad Asincronica: Plazo Desde viernes hasta domingo a las 12hs máximo. 
 
 >Sube el parcial despues de la clase del 29/09/2023.
@@ -20,6 +21,8 @@ https://drive.google.com/file/d/1XYgpfh4zfx3HYygOncfZ2J9BJxsLRSa8/view
 >Recuperatorio:     01/12/2023 hasta 03/12/2023 (Revision: 08/12/2023).
 >FInal 1er llamado: 15/12/2023
 >Final 2do llamado: 22/12/2023
+
+### Programa de estudio
 
 Programa Estimativo:
 Unidad 1: Estadistica Descriptiva
@@ -56,7 +59,7 @@ Probabilidad: Simple o Marginal / Conjunta o Producto / Total o Suma / Condicion
 Aplicaciones de Probabilidad y Media Ponderada: Teorema de Tchebycheff / Tablas de Mortalidad / Analisis de Desiciones / Riesgo e Incertidumbre
 Numeros Indice: Variacion Abs y Rel / Indice Canasta / Inflacion / Crecimiento / Desempleo
 
-Clases grabadas
+### Clases grabadas
 
 01 - Parte A https://drive.google.com/file/d/1xNTyobHRQm-e1WmIIr9hsd8tzgVb9kAh/view
 
@@ -79,9 +82,13 @@ Clases grabadas
 05 - Parte B https://drive.google.com/file/d/1XbSG3p6VDBAm09uTnXPzAM2XoXaLhuq6/view
 
 06 - Parte A
+
 06 - Parte B 
 
 
+=================================================================================================================
+### Material Adicional
+=================================================================================================================
 
 
 Listas de videos - Profe Alex
