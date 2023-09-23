@@ -2,16 +2,6 @@ Estadistica y Probabilidad
 
 1° parcial: 06/10/2023. 2° parcial: 24/11/2023
 
-	•	Conceptos básicos de estadística descriptiva.
-	•	Media, varianza y desvío estándar.
-	•	Moda, mediana y percentiles.
-	•	Probabilidad marginal y conjunta.
-	•	Tabla de contingencia y diagrama de Venn.
-	•	Sucesos compatibles e incompatibles, dependientes e independientes.
-	•	Probabilidad condicional.
-	•	Distribución de probabilidades: binomial, Poisson y normal.
-
-
 Programa Estimativo:
 Unidad 1: Estadistica Descriptiva
 >Organizacion de datos simples y agrupados
