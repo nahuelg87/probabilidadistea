@@ -31,8 +31,11 @@ https://drive.google.com/file/d/1XYgpfh4zfx3HYygOncfZ2J9BJxsLRSa8/view
 >1° parcial: 29/09/2023 hasta 01/10/2023 (Revision: 06/10/2023). 
 >2° parcial: 17/11/2023 hasta 19/11/2023 (Revision: 24/11/2023).
 
->Recuperatorio:     01/12/2023 hasta 03/12/2023 (Revision: 08/12/2023).
->FInal 1er llamado: 15/12/2023
+>Recuperatorio Integrador: 01/12/2023 hasta 03/12/2023 (Revision: 08/12/2023).
+>Modo de Notas:
+8 Ejercicios, se deben realizar como minimo 2 ejercicios correctamente de cada parte de la materia. Caso contrario, la nota sera 2.
+
+>Final 1er llamado: 15/12/2023
 >Final 2do llamado: 22/12/2023
 
 ### Programa de estudio
@@ -75,6 +78,8 @@ Numeros Indice: Variacion Abs y Rel / Indice Canasta / Inflacion / Crecimiento /
 ### Clases grabadas
 
 01 - Parte A https://drive.google.com/file/d/1xNTyobHRQm-e1WmIIr9hsd8tzgVb9kAh/view
+
+Temas: Introduccion a la materia, modalidad de parciales, notas, cronograma.
 
 01 - Parte B https://drive.google.com/file/d/1XAG5NvDd-MUufmVboB1hwcQicwwbLr4O/view
 
