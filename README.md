@@ -147,9 +147,12 @@ Temas: Definición, Historia, Duración: 1.31hs
 * Axiomas - [Teorema de Bayes](https://www.youtube.com/watch?v=tWqy7wCEJn4&list=PLeySRPnY35dH7Pnamtm2xxaCuT6jxt1vn)
 
 ### Definiciones y Conceptos:
+
 Estadística Descriptiva:
 * Grupo A "Población" (Entera) > Si la estudiamos, el procedimiento se llama Censo. Puede ser "Finita" o "Infinitas".
 * Grupo B Sub-grupo de la población llamado "Muestra" > Si la estudiamos, el procedimiento se llama Muestreo. Puede ser Probabilista o No Probabilista.
+
+[Mapa conceptual de Física y Estadística](https://www.mindomo.com/es/mindmap/mapa-conceptual-estadistica-5e22f5a8af111642a0dda27dbec682be) 
 
 Sacaremos medidas que nos resuman los datos de la Población / Muestra.
 * Esta Medida se llama parámetro (Para la Población)
