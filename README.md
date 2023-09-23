@@ -82,7 +82,7 @@ Numeros Indice: Variacion Abs y Rel / Indice Canasta / Inflacion / Crecimiento /
 Temas: Introduccion a la materia, modalidad de parciales, notas, cronograma. Duracion: 54 min.
 
 Material:
->Libros: https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NjE2MTIx/details
+>Libros: https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NjE2MTIx/details.
 >Modelo de Examenes: https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NDU3NTY5/details
 >Modelo de Examenes 2: https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5NzgzMzA3/details
 >Solucion de Examenes del cuatrimestre: https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5MTc5NzI4/details
