@@ -77,7 +77,10 @@ Numeros Indice: Variacion Abs y Rel / Indice Canasta / Inflacion / Crecimiento /
 
 ### Clases grabadas
 
-01 - Parte A https://drive.google.com/file/d/1xNTyobHRQm-e1WmIIr9hsd8tzgVb9kAh/view
+>Lista de reproduccion en YouTube: https://www.youtube.com/playlist?list=PLmNr45tpqs7bFuVNABxiRsw2D9HxOD0Sl
+
+
+01 - Parte A https://drive.google.com/file/d/1xNTyobHRQm-e1WmIIr9hsd8tzgVb9kAh/view o https://youtu.be/Mg5wL8v5vPA
 
 Temas: Introduccion a la materia, modalidad de parciales, notas, cronograma. Duracion: 54 min.
 
@@ -95,28 +98,28 @@ Material:
 >Ejercicios y Problemas: https://classroom.google.com/c/NjE3Mjk0MjU3MjQx/m/NjE4NjY5ODk4NTMw/details
 
 
-01 - Parte B https://drive.google.com/file/d/1XAG5NvDd-MUufmVboB1hwcQicwwbLr4O/view
+01 - Parte B https://drive.google.com/file/d/1XAG5NvDd-MUufmVboB1hwcQicwwbLr4O/view o https://youtu.be/DgCZnpzf_Fc
 
 Temas: Definicion, Historia, Duracion: 1.31hs
-Material
-https://drive.google.com/file/d/1EG0yyhIG-RbgfGO351jK9havWqtj1ECD/view
+Material:
+>https://drive.google.com/file/d/1EG0yyhIG-RbgfGO351jK9havWqtj1ECD/view
 
 
-02 - Parte A https://drive.google.com/file/d/1Ha7i9rQ2BAmzPNR6eSzOxkKEm7nPH9Ch/view
+02 - Parte A https://drive.google.com/file/d/1Ha7i9rQ2BAmzPNR6eSzOxkKEm7nPH9Ch/view o https://youtu.be/cE0yLRsCPho
 
-02 - Parte B https://drive.google.com/file/d/1Lz6Ns_g__dpdGlc5D7M8iC9CUkpgJTin/view
+02 - Parte B https://drive.google.com/file/d/1Lz6Ns_g__dpdGlc5D7M8iC9CUkpgJTin/view o https://youtu.be/TWvjM7IpYPc
 
-03 - Parte A https://drive.google.com/file/d/1JFLhKmEwouQb6n6EdXk8UqGhV4C3uIFG/view
+03 - Parte A https://drive.google.com/file/d/1JFLhKmEwouQb6n6EdXk8UqGhV4C3uIFG/view o https://youtu.be/hpAQtKs8Bww
 
-03 - Parte B https://drive.google.com/file/d/1Rn1HVfDBL5orNYTaxFbxmws1lwDi8uOk/view
+03 - Parte B https://drive.google.com/file/d/1Rn1HVfDBL5orNYTaxFbxmws1lwDi8uOk/view o https://youtu.be/tS9Wr07RKu4
 
-04 - Parte A https://drive.google.com/file/d/14ZI11IdNw6nYPH4OicAmr7gD8QVgpdUW/view
+04 - Parte A https://drive.google.com/file/d/14ZI11IdNw6nYPH4OicAmr7gD8QVgpdUW/view o https://youtu.be/shf8TZ0njB0
 
-04 - Parte B https://drive.google.com/file/d/1b-GgwFnyZ76T1mCBn80R1-zp39uoNaSp/view
+04 - Parte B https://drive.google.com/file/d/1b-GgwFnyZ76T1mCBn80R1-zp39uoNaSp/view o https://youtu.be/AF5nAk6S9yw
 
-05 - Parte A https://drive.google.com/file/d/1th1uCWXyMB8WLP-ZyM5Sre_wM-P7HBsZ/view
+05 - Parte A https://drive.google.com/file/d/1th1uCWXyMB8WLP-ZyM5Sre_wM-P7HBsZ/view o https://youtu.be/68sGSe-SFlw
 
-05 - Parte B https://drive.google.com/file/d/1XbSG3p6VDBAm09uTnXPzAM2XoXaLhuq6/view
+05 - Parte B https://drive.google.com/file/d/1XbSG3p6VDBAm09uTnXPzAM2XoXaLhuq6/view o https://youtu.be/1k6YB6W9Dhw
 
 06 - Parte A
 
@@ -146,3 +149,14 @@ Combinaciones Permutaciones y Variaciones https://www.youtube.com/watch?v=ec8TQj
 Combinatoria https://www.youtube.com/watch?v=tQh29_Noo9w&list=PLeySRPnY35dEtzvR4hUhigwTCHQcxP28l
 
 Axiomas - Teorema de Bayes https://www.youtube.com/watch?v=tWqy7wCEJn4&list=PLeySRPnY35dH7Pnamtm2xxaCuT6jxt1vn
+
+
+Definiciones y Conceptos:
+Estadistica Descriptiva.
+>Grupo A "Poblacion" (Entera) > Si la estudiamos, el procedimiento se llama Censo. Puede ser "Finita" o "Infinitas".
+>Grupo B Sub-grupo de la poblacion llamado "Muestra" > Si la estudiamos, el procedimiento se llama Muestreo. Puede ser Probabilistico o No Probabilistico.
+
+Sacaremos medidas que nos resuman los datoa de la Poblacion / Muestra.
+
+Esta medida se llama parametro (Para la Poblacion) 
+Esta Medida se llama (Estadisticos, Estimadores, Estadigrafos) para la Muestra.
