@@ -59,15 +59,25 @@ Numeros Indice: Variacion Abs y Rel / Indice Canasta / Inflacion / Crecimiento /
 Clases grabadas
 
 01 - Parte A https://drive.google.com/file/d/1xNTyobHRQm-e1WmIIr9hsd8tzgVb9kAh/view
+
 01 - Parte B https://drive.google.com/file/d/1XAG5NvDd-MUufmVboB1hwcQicwwbLr4O/view
+
 02 - Parte A https://drive.google.com/file/d/1Ha7i9rQ2BAmzPNR6eSzOxkKEm7nPH9Ch/view
+
 02 - Parte B https://drive.google.com/file/d/1Lz6Ns_g__dpdGlc5D7M8iC9CUkpgJTin/view
+
 03 - Parte A https://drive.google.com/file/d/1JFLhKmEwouQb6n6EdXk8UqGhV4C3uIFG/view
+
 03 - Parte B https://drive.google.com/file/d/1Rn1HVfDBL5orNYTaxFbxmws1lwDi8uOk/view
+
 04 - Parte A https://drive.google.com/file/d/14ZI11IdNw6nYPH4OicAmr7gD8QVgpdUW/view
+
 04 - Parte B https://drive.google.com/file/d/1b-GgwFnyZ76T1mCBn80R1-zp39uoNaSp/view
+
 05 - Parte A https://drive.google.com/file/d/1th1uCWXyMB8WLP-ZyM5Sre_wM-P7HBsZ/view
+
 05 - Parte B https://drive.google.com/file/d/1XbSG3p6VDBAm09uTnXPzAM2XoXaLhuq6/view
+
 06 - Parte A
 06 - Parte B 
 
