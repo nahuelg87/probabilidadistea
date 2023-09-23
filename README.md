@@ -86,12 +86,12 @@ Numeros Indice: Variacion Abs y Rel / Indice Canasta / Inflacion / Crecimiento /
 06 - Parte B 
 
 
-=================================================================================================================
+===========================================================
 ### Material Adicional
-=================================================================================================================
-
+===========================================================
 
 Listas de videos - Profe Alex
+
 Lista Conceptos Basicos Estadistica https://t.ly/AHAfd
 
 Frecuencias https://t.ly/6P6dy
