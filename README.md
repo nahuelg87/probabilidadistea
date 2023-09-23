@@ -1,4 +1,9 @@
-Estadistica y Probabilidad
+#Estadistica y Probabilidad
+
+##Tabla de contenidos
+1.[Modalidad de Parciales, fechas y tips](#modalidad-de-parciales-fechas-y-tips)
+2.[]
+3.[]
 
 ### Modalidad de parciales, fechas y tips.
 >Modalidad Asincronica: Plazo Desde viernes hasta domingo a las 12hs máximo. 
@@ -13,6 +18,12 @@ Estadistica y Probabilidad
 
 >Libro para estudiar mas completo: Estadisitca para Administracion y Economia.
 https://drive.google.com/file/d/1XYgpfh4zfx3HYygOncfZ2J9BJxsLRSa8/view
+
+>Modo de notas:
+0 o 1 Ejercicios correctos o ausentes sera un 2
+2 ejercicios correctos sera un 4
+3 ejercicios correctos sera un 7
+4 ejercicios correctos sera un 10
 
 
 >1° parcial: 29/09/2023 hasta 01/10/2023 (Revision: 06/10/2023). 
