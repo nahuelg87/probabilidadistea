@@ -39,15 +39,15 @@ Numeros Indice: Variacion Abs y Rel / Indice Canasta / Inflacion / Crecimiento /
 
 
 Listas de videos - Profe Alex
-Lista Conceptos Basicos Estadistica https://www.youtube.com/watch?v=Xq3thcQqwbc&list=PLeySRPnY35dFF5D9g_zi07yPKGXui4GII
+Lista Conceptos Basicos Estadistica https://t.ly/AHAfd
 
-Frecuencias https://www.youtube.com/watch?v=a4cI02iW_zQ&list=PLeySRPnY35dFcEmQDGrPxwJVXiIeu_9cl
+Frecuencias https://t.ly/6P6dy
 
-Tipos de Graficos Estadisticos https://www.youtube.com/watch?v=9G4HPNVA5w4&list=PLeySRPnY35dHPj-BOGu_fPKa30L61ITHF
+Tipos de Graficos Estadisticos https://t.ly/YAAWH
 
-Media Mediana y Moda - Datos Sin Agrupar https://www.youtube.com/watch?v=fOuRqk1nzgY&list=PLeySRPnY35dFkzBgleLJ5WVFbGdkmCik5
+Media Mediana y Moda - Datos Sin Agrupar https://t.ly/Yc8WY
 
-Cuartiles Deciles y Percentiles https://www.youtube.com/watch?v=suSz9RXFNTs&list=PLeySRPnY35dG_Wo7ngNsT60lvahhW8UQy
+Cuartiles Deciles y Percentiles https://t.ly/i52-j
 
 Desviacion Estandar, Varianza https://www.youtube.com/watch?v=hLmsEFNaOgY&list=PLeySRPnY35dE25b7mIEUlsMCQqlhJFhyG
 
