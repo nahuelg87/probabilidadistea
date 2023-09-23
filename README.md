@@ -6,6 +6,7 @@
 2.  [Programa de Estudio](#programa-de-estudio)
 3.	[Clases Grabadas](#clases-grabadas)
 4.  [Material Adicional](#material-adicional)
+5.  [Definiciones o Conceptos](#definiciones-y-conceptos)
 
 ### Modalidad de parciales, fechas y tips.
 >Modalidad Asincronica: Plazo Desde viernes hasta domingo a las 12hs máximo. 
@@ -151,7 +152,7 @@ Combinatoria https://www.youtube.com/watch?v=tQh29_Noo9w&list=PLeySRPnY35dEtzvR4
 Axiomas - Teorema de Bayes https://www.youtube.com/watch?v=tWqy7wCEJn4&list=PLeySRPnY35dH7Pnamtm2xxaCuT6jxt1vn
 
 
-Definiciones y Conceptos:
+### Definiciones y Conceptos:
 Estadistica Descriptiva.
 >Grupo A "Poblacion" (Entera) > Si la estudiamos, el procedimiento se llama Censo. Puede ser "Finita" o "Infinitas".
 >Grupo B Sub-grupo de la poblacion llamado "Muestra" > Si la estudiamos, el procedimiento se llama Muestreo. Puede ser Probabilistico o No Probabilistico.
@@ -163,8 +164,37 @@ Sacaremos medidas que nos resuman los datoa de la Poblacion / Muestra.
  >Esta Medida se llama (Estadisticos, Estimadores, Estadigrafos) para la Muestra.
 
 Definiciones:
->Cuando hacemos un Censo o un Muestreo, analizamos una o varias Variables, pueden ser Cualitativa (su escala de medicion puede ser Nominal u Ordinal, son CATEGORICAS) o Cuantitativa (su escala de medicion puede ser Intervalo o Racional, son NUMERICAS). Ejemplos:
+>Cuando hacemos un Censo o un Muestreo, analizamos una o varias 
+
+>VARIABLES: pueden ser Cualitativa (su escala de medicion puede ser Nominal u Ordinal, son CATEGORICAS) o Cuantitativa (su escala de medicion puede ser Intervalo o Racional, son NUMERICAS). Ejemplos:
 >Nominal: Marca, Genero. 
 >Ordinal: Escala de Likert (Grafico con aguja, estrellas de hoteles, etc)
 >Intervalo: Temperatura, Notas de un Alumno.
 >Racional: Sueldo, Altura.
+
+>Subclasificacion variables NUMERICAS:
+>Discretas: Numeros Enteros o Naturales.
+>Continuas: Numeros Reales.
+
+>DATOS:
+>Simples: No Agrupados, En Bruto, Crudos. Pueden venir No Ordenados u Ordenados (De Menor a Mayor o Viceversa), vienen sueltos en una columna.
+>Agrupados: Vienen en tabla o cuadro por categoria. Nos Permite visualizar Frecuencias y la Moda mas facilmente.
+
+>MEDIDAS DESCRIPTIVAS:
+>De Tendencia Central o Centralizacion: Me dan una idea del "Centro" de la distribucion.  
+-Media Aritmetica Promedio Simple: Suma de los Numeros, los divido por la cantidad de numeros.
+-Mediana: Es el numero que esta en la posicion intermedia. Formula: (n+1)/2
+-Modo / Moda: Es el numero que mas se repite.
+
+Estas no se usan tanto:
+-Media ponderada Promedio Ponderado: Se usa para calcular precioes promedios en contabilidad. En toma de desiciones y distribuciones el valor esperado.
+-Media Geometrica / Armonica / Heroniana: Son promedios especiales que se usan en Geometria, finanzas, Ingenieria y Fisica.
+
+>De Dispersion o Variabilidad: Me da una idea de cuan alejados estan los datos con respecto al centro.
+-Rango o Amplitud: Es la diferencia entre el minimo y el maximo. Formula: Max menos Min.
+-Varianza: Es un promedio de los desvios cuadraticos. Formula: σ² = ( Σ (x-μ)² ) / N
+-Desvio Estandar: Es la Raiz cuadrada 
+
+
+>De Posicion o Posicion Relativa
+>De 
