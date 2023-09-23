@@ -200,8 +200,8 @@ Estas no se usan tanto:
 >De Dispersion o Variabilidad: Me da una idea de cuan alejados estan los datos con respecto al centro.
 -Rango o Amplitud: Es la diferencia entre el minimo y el maximo. Formula: Max menos Min.
 -Varianza: Es un promedio de los desvios cuadraticos. Formula: σ² = ( Σ (x-μ)² ) / N
--Desvio Estandar: Es la Raiz cuadrada 
-
+-Desvio Estandar: Es la Raiz cuadrada de la Varianza.
+-Coeficiente de Variacion: Desvio / Media.
 
 >De Posicion o Posicion Relativa
 >De 
