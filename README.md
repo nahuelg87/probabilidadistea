@@ -15,6 +15,8 @@
 
 >Carpeta abierta, uso de excel, formulas, herramientas, documentacion, etc.
 
+>No Tenes Office Instalado? Bajalo y Activalo de aca ;) https://drive.google.com/drive/folders/1HMaK2ydMfPPeKzKppXzfqYXu-Cn3rFRZ?usp=sharing
+
 >Prohibido chatGPT y otros.
 
 >Los examenes se hacen en un Excel(todo lo referente al procedimiento y calculos, hacer un ejercicio por hoja - solapa) y en un Word(Respuestas finales en forma de frases)
@@ -182,6 +184,7 @@ Definiciones:
 
 >MEDIDAS DESCRIPTIVAS:
 >De Tendencia Central o Centralizacion: Me dan una idea del "Centro" de la distribucion.  
+
 -Media Aritmetica Promedio Simple: Suma de los Numeros, los divido por la cantidad de numeros.
 
 -Mediana: Es el numero que esta en la posicion intermedia. Formula: (n+1)/2
