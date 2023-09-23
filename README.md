@@ -158,5 +158,13 @@ Estadistica Descriptiva.
 
 Sacaremos medidas que nos resuman los datoa de la Poblacion / Muestra.
 
-Esta medida se llama parametro (Para la Poblacion) 
-Esta Medida se llama (Estadisticos, Estimadores, Estadigrafos) para la Muestra.
+>Esta Medida se llama parametro (Para la Poblacion) 
+
+ >Esta Medida se llama (Estadisticos, Estimadores, Estadigrafos) para la Muestra.
+
+Definiciones:
+>Cuando hacemos un Censo o un Muestreo, analizamos una o varias Variables, pueden ser Cualitativa (su escala de medicion puede ser Nominal u Ordinal, son CATEGORICAS) o Cuantitativa (su escala de medicion puede ser Intervalo o Racional, son NUMERICAS). Ejemplos:
+>Nominal: Marca, Genero. 
+>Ordinal: Escala de Likert (Grafico con aguja, estrellas de hoteles, etc)
+>Intervalo: Temperatura, Notas de un Alumno.
+>Racional: Sueldo, Altura.
